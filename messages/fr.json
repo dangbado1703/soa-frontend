@@ -1,0 +1,92 @@
+{
+  "HomePage": {
+    "title": "HomePage",
+    "header": {
+      "title1": "This is title 1",
+      "title2": "This is title 2",
+      "title3": "This is title 3",
+      "title4": "This is title 4",
+      "language": "Sélectionnez la langue"
+    },
+    "block": {
+      "block-1": "Titre Bloc 1",
+      "block-2": "Titre Bloc 2",
+      "our-active": "Nos activités",
+      "subtitle-1": "Sous-titre Bloc 1"
+    },
+    "cardSession": {
+      "subtitle": "Case Title",
+      "title": "Case sous-titre",
+      "description": "Chaque sentier vous conduit à des panoramas époustouflants, chaque instant devient une aventure, chaque rencontre vous promet un so uvenir marquant. Avec MITIK, le tourisme d’aventure allie nature brute et confort raffiné à toutes les saisons. Randonnée, canoë, observation de la faune, rencontres culturelles, exploration en montagne, chaque escapade est une immersion inoubliable dans les grands espaces canadiens.",
+      "buttonLabel": "Forfait 1"
+    },
+    "map": {
+      "active-1": "Activité 1",
+      "active-2": "Activité 2",
+      "active-3": "Activité 3",
+      "emplacement": "Emplacement",
+      "reset": "Réinitialiser le zoom"
+    },
+    "calendar": {
+      "free": "Libre",
+      "busy": "Occupé",
+      "january": "Janvier",
+      "february": "Février",
+      "march": "Mars",
+      "april": "Avril",
+      "may": "Mai",
+      "june": "Juin",
+      "july": "Juillet",
+      "august": "Août",
+      "september": "Septembre",
+      "october": "Octobre",
+      "november": "Novembre",
+      "december": "Décembre",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mer",
+      "thu": "Jeu",
+      "fri": "Ven",
+      "sat": "Sam",
+      "sun": "Dim"
+    },
+    "textEditor": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "placeholderName": "Entrez votre nom",
+      "placeholderEmail": "Entrez votre e-mail",
+      "requiredFile": "*fichiers pdf uniquement",
+      "file": "Fichier",
+      "send": "Envoyer"
+    },
+    "titleBlock": {
+      "title": "Titre",
+      "learnMore": "En savoir plus"
+    },
+    "iceCream": {
+      "firstTitle": "Des expériences inoubliables",
+      "secondTitle": "Lorem Ipsum truc",
+      "about": "À propos de BASIC"
+    },
+    "service": {
+      "authen": "Authenticité",
+      "respect": "Respect",
+      "diver": "Diversité",
+      "person": "Personnalisation",
+      "smile": "Confort",
+      "subtitle": "Sous-titre"
+    },
+    "blockBasic": {
+      "title": "Immortalisez des moments inoubliables avec <guidelines>#BASIC</guidelines>",
+      "imageLabel": "La famille",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "checkout": "Consultez @BASIC et <guidelines>#BASIC</guidelines> pour découvrir les ex périences inoubliables des pourvoiries et activités BASIC."
+    },
+    "footer": {
+      "title": "Explorez avec BASIC <guidelines>dès aujourd’hui</guidelines>",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, ",
+      "button": "Explore"
+    }
+  }
+}
